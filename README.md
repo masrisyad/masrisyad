@@ -25,7 +25,6 @@ const icad = {
 };
 ```
 
-- 🔭 Currently working on **blockchain & Web3 projects**
 - 🌱 Learning **Playwright, Javascript, and AI Architecture**
 
 ---
