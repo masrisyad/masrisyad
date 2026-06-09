@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 ```javascript
-const indra = {
+const icad = {
     location: "Jakarta, Indonesia 🇮🇩",
     role: "Quality Engineer",
     company: "PT. Nusantara Sukses Teknologi",
@@ -63,7 +63,7 @@ const indra = {
 
 <div align="center">
 
-<a href="https://github.com/igun997">
+<a href="https://github.com/masrisyad">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masrisyad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masrisyad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
@@ -82,7 +82,7 @@ const indra = {
 
 <div align="center">
 
-[![masrisyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masrisyad&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/igun997)
+[![masrisyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masrisyad&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/masrisyad)
 
 </div>
 
