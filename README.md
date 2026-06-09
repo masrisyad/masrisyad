@@ -69,12 +69,6 @@ const icad = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-black-gamma.vercel.app?user=masrisyad&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -82,16 +76,6 @@ const icad = {
 <div align="center">
 
 [![masrisyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masrisyad&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/masrisyad)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/masrisyad/masrisyad/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
