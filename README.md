@@ -24,9 +24,6 @@ const icad = {
     funFact: "When I'm not hunting bugs, I'm probably deep into a racing simulator career mode! 🏎️"
 };
 ```
-
-- 🌱 Learning **Playwright, Javascript, and AI Architecture**
-
 ---
 
 ## 🛠️ Tech Stack
