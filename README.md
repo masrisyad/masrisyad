@@ -91,7 +91,7 @@ const icad = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=igun997&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=masrisyad&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Thanks for visiting!** ⭐ Star my repos if you find them useful!
 
