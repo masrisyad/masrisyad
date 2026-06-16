@@ -2,7 +2,7 @@
 
 # Hello there! I'm Risyad Abdala. Glad to see you here!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Quality+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Quality+Engineer;AI+Orchestrator)](https://git.io/typing-svg)
 
 > **"Make it work, make it right, make it fast."** — *Kent Beck*
 
