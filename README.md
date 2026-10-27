@@ -90,7 +90,7 @@ Async-first: clear written updates and screen recordings, no meetings required. 
 
 <div align="center">
 
-[![masrisyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masrisyad&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/masrisyad)
+[![masrisyad's contribution streak](https://streak-stats.demolab.com/?user=masrisyad&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/masrisyad)
 
 </div>
 
